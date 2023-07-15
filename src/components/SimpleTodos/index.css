@@ -1,0 +1,21 @@
+.main-cont {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  height: max-content;
+  padding: 20px;
+  border-radius: 20px;
+}
+.heading {
+  font-size: xx-large;
+  text-align: center;
+  color: #ff8542;
+}
+.ul-list {
+}

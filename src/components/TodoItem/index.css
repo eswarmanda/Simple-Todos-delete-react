@@ -1,0 +1,21 @@
+.list-ele {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 720px;
+  margin: 10px;
+}
+.title {
+  font-size: large;
+  margin: 10px;
+}
+.btn {
+  background-color: transparent;
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border-width: 0.1px;
+  color: red;
+  border-color: red;
+}
